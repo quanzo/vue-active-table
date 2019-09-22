@@ -1,0 +1,2564 @@
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569173144781
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 0
+                    [col] => name
+                    [initial] => Jonh44
+                    [result] => Jonh
+                    [data] => Array
+                        (
+                            [0] => Jonh44
+                            [1] => Smith
+                            [2] => 0
+                            [3] => Usa
+                            [4] => Washington
+                            [name] => Jonh
+                            [family] => Smith
+                            [id] => 0
+                            [country] => Usa
+                            [town] => Washington
+                        )
+
+                )
+
+        )
+
+    [id] => 1569173149260
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [perpage] => 2
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 0
+            [col] => name
+            [initial] => Jonh44
+            [result] => Jonh
+            [data] => Array
+                (
+                    [0] => Jonh44
+                    [1] => Smith
+                    [2] => 0
+                    [3] => Usa
+                    [4] => Washington
+                    [name] => Jonh
+                    [family] => Smith
+                    [id] => 0
+                    [country] => Usa
+                    [town] => Washington
+                )
+
+        )
+
+)
+Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 0
+                    [col] => name
+                    [initial] => Jonh44
+                    [result] => Jonh
+                    [data] => Array
+                        (
+                            [0] => Jonh44
+                            [1] => Smith
+                            [2] => 0
+                            [3] => Usa
+                            [4] => Washington
+                            [name] => Jonh
+                            [family] => Smith
+                            [id] => 0
+                            [country] => Usa
+                            [town] => Washington
+                        )
+
+                )
+
+        )
+
+    [id] => 1569173483316
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [perpage] => 2
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 0
+            [col] => name
+            [initial] => Jonh44
+            [result] => Jonh
+            [data] => Array
+                (
+                    [0] => Jonh44
+                    [1] => Smith
+                    [2] => 0
+                    [3] => Usa
+                    [4] => Washington
+                    [name] => Jonh
+                    [family] => Smith
+                    [id] => 0
+                    [country] => Usa
+                    [town] => Washington
+                )
+
+        )
+
+)
+Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 0
+                    [col] => name
+                    [initial] => Jonh
+                    [result] => Jonh555
+                    [data] => Array
+                        (
+                            [0] => Jonh44
+                            [1] => Smith
+                            [2] => 0
+                            [3] => Usa
+                            [4] => Washington
+                            [name] => Jonh555
+                            [family] => Smith
+                            [id] => 0
+                            [country] => Usa
+                            [town] => Washington
+                        )
+
+                )
+
+        )
+
+    [id] => 1569173531348
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [perpage] => 2
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 0
+            [col] => name
+            [initial] => Jonh
+            [result] => Jonh555
+            [data] => Array
+                (
+                    [0] => Jonh44
+                    [1] => Smith
+                    [2] => 0
+                    [3] => Usa
+                    [4] => Washington
+                    [name] => Jonh555
+                    [family] => Smith
+                    [id] => 0
+                    [country] => Usa
+                    [town] => Washington
+                )
+
+        )
+
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569173963904
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569173999509
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 1
+                    [col] => name
+                    [initial] => 
+                    [result] => 555
+                    [data] => Array
+                        (
+                            [name] => 555
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569174017428
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+        )
+
+    [perpage] => 2
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 1
+            [col] => name
+            [initial] => 
+            [result] => 555
+            [data] => Array
+                (
+                    [name] => 555
+                    [family] => 
+                    [id] => 0
+                    [country] => 
+                    [town] => 
+                )
+
+        )
+
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569174024895
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569174325189
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179189914
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179210607
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179226830
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 0
+                    [col] => name
+                    [initial] => 555
+                    [result] => 555уу
+                    [data] => Array
+                        (
+                            [0] => 555
+                            [1] => Smith
+                            [2] => 0
+                            [3] => Usa
+                            [4] => Washington
+                            [name] => 555уу
+                            [family] => Smith
+                            [id] => 0
+                            [country] => Usa
+                            [town] => Washington
+                        )
+
+                )
+
+        )
+
+    [id] => 1569179239310
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [perpage] => 2
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 0
+            [col] => name
+            [initial] => 555
+            [result] => 555уу
+            [data] => Array
+                (
+                    [0] => 555
+                    [1] => Smith
+                    [2] => 0
+                    [3] => Usa
+                    [4] => Washington
+                    [name] => 555уу
+                    [family] => Smith
+                    [id] => 0
+                    [country] => Usa
+                    [town] => Washington
+                )
+
+        )
+
+)
+Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 0
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569179248342
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179357884
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 0
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569179361870
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179497355
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179502743
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179597081
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179601014
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179700199
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179702189
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179734395
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179737149
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179807637
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179810541
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569179909776
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 0
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569179912909
+)
+Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 0
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569179919045
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569182513308
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                )
+
+            [perpage] => 2
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 0
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569182518535
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 2
+            [page] => 1
+        )
+
+    [id] => 1569182559542
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 2Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 100
+            [page] => 1
+        )
+
+    [id] => 1569182619050
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 100Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 1
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569182626085
+)
+Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 2
+                    [col] => name
+                    [initial] => 
+                    [result] => 7777
+                    [data] => Array
+                        (
+                            [name] => 7777
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569182639397
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+            [3] => 0
+            [4] => 0
+            [5] => 0
+            [6] => 0
+            [7] => 0
+            [8] => 0
+            [9] => 0
+            [10] => 0
+            [11] => 0
+            [12] => 0
+        )
+
+    [perpage] => 100
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 2
+            [col] => name
+            [initial] => 
+            [result] => 7777
+            [data] => Array
+                (
+                    [name] => 7777
+                    [family] => 
+                    [id] => 0
+                    [country] => 
+                    [town] => 
+                )
+
+        )
+
+)
+Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 2
+                    [col] => family
+                    [initial] => 
+                    [result] => 8888
+                    [data] => Array
+                        (
+                            [name] => 7777
+                            [family] => 8888
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569182643749
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+            [3] => 0
+            [4] => 0
+            [5] => 0
+            [6] => 0
+            [7] => 0
+            [8] => 0
+            [9] => 0
+            [10] => 0
+            [11] => 0
+            [12] => 0
+        )
+
+    [perpage] => 100
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 2
+            [col] => family
+            [initial] => 
+            [result] => 8888
+            [data] => Array
+                (
+                    [name] => 7777
+                    [family] => 8888
+                    [id] => 0
+                    [country] => 
+                    [town] => 
+                )
+
+        )
+
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 100
+            [page] => 1
+        )
+
+    [id] => 1569182647019
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 100Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 11
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569182660855
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 100
+            [page] => 1
+        )
+
+    [id] => 1569182696792
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 100Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 10
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569182707278
+)
+Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 11
+                    [col] => name
+                    [initial] => 
+                    [result] => 4
+                    [data] => Array
+                        (
+                            [name] => 4
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569182715949
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+            [3] => 0
+            [4] => 0
+            [5] => 0
+            [6] => 0
+            [7] => 0
+            [8] => 0
+            [9] => 0
+            [10] => 0
+            [11] => 0
+            [12] => 0
+            [13] => 0
+            [14] => 0
+        )
+
+    [perpage] => 100
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 11
+            [col] => name
+            [initial] => 
+            [result] => 4
+            [data] => Array
+                (
+                    [name] => 4
+                    [family] => 
+                    [id] => 0
+                    [country] => 
+                    [town] => 
+                )
+
+        )
+
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 100
+            [page] => 1
+        )
+
+    [id] => 1569182749624
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 100Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 100
+            [page] => 1
+        )
+
+    [id] => 1569182793248
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 100Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 11
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569182796524
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 100
+            [page] => 1
+        )
+
+    [id] => 1569182828124
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 100Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                    [15] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 11
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569182831949
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 100
+            [page] => 1
+        )
+
+    [id] => 1569182853205
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 100Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                    [15] => 0
+                    [16] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 11
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569182856733
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 100
+            [page] => 1
+        )
+
+    [id] => 1569182887800
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 100Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                    [15] => 0
+                    [16] => 0
+                    [17] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 11
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569182889741
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 100
+            [page] => 1
+        )
+
+    [id] => 1569183261280
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 100Array
+(
+    [method] => newRow
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                    [15] => 0
+                    [16] => 0
+                    [17] => 0
+                    [18] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [afterRow] => 0
+                    [data] => Array
+                        (
+                            [name] => 
+                            [family] => 
+                            [id] => 0
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569183266519
+)
+Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                    [15] => 0
+                    [16] => 0
+                    [17] => 0
+                    [18] => 0
+                    [19] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 1
+                    [col] => name
+                    [initial] => 
+                    [result] => Julietta
+                    [data] => Array
+                        (
+                            [id] => 20
+                            [name] => Julietta
+                            [family] => 
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569183283515
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+            [3] => 0
+            [4] => 0
+            [5] => 0
+            [6] => 0
+            [7] => 0
+            [8] => 0
+            [9] => 0
+            [10] => 0
+            [11] => 0
+            [12] => 0
+            [13] => 0
+            [14] => 0
+            [15] => 0
+            [16] => 0
+            [17] => 0
+            [18] => 0
+            [19] => 0
+        )
+
+    [perpage] => 100
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 1
+            [col] => name
+            [initial] => 
+            [result] => Julietta
+            [data] => Array
+                (
+                    [id] => 20
+                    [name] => Julietta
+                    [family] => 
+                    [country] => 
+                    [town] => 
+                )
+
+        )
+
+)
+Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                    [15] => 0
+                    [16] => 0
+                    [17] => 0
+                    [18] => 0
+                    [19] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 1
+                    [col] => family
+                    [initial] => 
+                    [result] => Kordova
+                    [data] => Array
+                        (
+                            [id] => 20
+                            [name] => Julietta
+                            [family] => Kordova
+                            [country] => 
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569183295061
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+            [3] => 0
+            [4] => 0
+            [5] => 0
+            [6] => 0
+            [7] => 0
+            [8] => 0
+            [9] => 0
+            [10] => 0
+            [11] => 0
+            [12] => 0
+            [13] => 0
+            [14] => 0
+            [15] => 0
+            [16] => 0
+            [17] => 0
+            [18] => 0
+            [19] => 0
+        )
+
+    [perpage] => 100
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 1
+            [col] => family
+            [initial] => 
+            [result] => Kordova
+            [data] => Array
+                (
+                    [id] => 20
+                    [name] => Julietta
+                    [family] => Kordova
+                    [country] => 
+                    [town] => 
+                )
+
+        )
+
+)
+Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                    [15] => 0
+                    [16] => 0
+                    [17] => 0
+                    [18] => 0
+                    [19] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 1
+                    [col] => country
+                    [initial] => 
+                    [result] => usa
+                    [data] => Array
+                        (
+                            [id] => 20
+                            [name] => Julietta
+                            [family] => Kordova
+                            [country] => usa
+                            [town] => 
+                        )
+
+                )
+
+        )
+
+    [id] => 1569183299517
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+            [3] => 0
+            [4] => 0
+            [5] => 0
+            [6] => 0
+            [7] => 0
+            [8] => 0
+            [9] => 0
+            [10] => 0
+            [11] => 0
+            [12] => 0
+            [13] => 0
+            [14] => 0
+            [15] => 0
+            [16] => 0
+            [17] => 0
+            [18] => 0
+            [19] => 0
+        )
+
+    [perpage] => 100
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 1
+            [col] => country
+            [initial] => 
+            [result] => usa
+            [data] => Array
+                (
+                    [id] => 20
+                    [name] => Julietta
+                    [family] => Kordova
+                    [country] => usa
+                    [town] => 
+                )
+
+        )
+
+)
+Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                    [15] => 0
+                    [16] => 0
+                    [17] => 0
+                    [18] => 0
+                    [19] => 0
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 1
+                    [col] => town
+                    [initial] => 
+                    [result] => New-York
+                    [data] => Array
+                        (
+                            [id] => 20
+                            [name] => Julietta
+                            [family] => Kordova
+                            [country] => usa
+                            [town] => New-York
+                        )
+
+                )
+
+        )
+
+    [id] => 1569183311128
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+            [3] => 0
+            [4] => 0
+            [5] => 0
+            [6] => 0
+            [7] => 0
+            [8] => 0
+            [9] => 0
+            [10] => 0
+            [11] => 0
+            [12] => 0
+            [13] => 0
+            [14] => 0
+            [15] => 0
+            [16] => 0
+            [17] => 0
+            [18] => 0
+            [19] => 0
+        )
+
+    [perpage] => 100
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 1
+            [col] => town
+            [initial] => 
+            [result] => New-York
+            [data] => Array
+                (
+                    [id] => 20
+                    [name] => Julietta
+                    [family] => Kordova
+                    [country] => usa
+                    [town] => New-York
+                )
+
+        )
+
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 100
+            [page] => 1
+        )
+
+    [id] => 1569183383864
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 100Array
+(
+    [method] => sort
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [checkedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [rowClasses] => Array
+                (
+                    [0] => 
+                    [1] => 
+                    [2] => 
+                    [3] => 
+                    [4] => 
+                    [5] => 
+                    [6] => 
+                    [7] => 
+                    [8] => 
+                    [9] => 
+                    [10] => 
+                    [11] => 
+                    [12] => 
+                )
+
+            [sort] => Array
+                (
+                    [0] => Array
+                        (
+                            [col] => country
+                            [direct] => asc
+                        )
+
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [0] => Array
+                        (
+                            [col] => country
+                            [direct] => asc
+                        )
+
+                )
+
+        )
+
+    [id] => 1569183394782
+)
+Array
+(
+    [method] => sort
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [checkedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [rowClasses] => Array
+                (
+                    [0] => 
+                    [1] => 
+                    [2] => 
+                    [3] => 
+                    [4] => 
+                    [5] => 
+                    [6] => 
+                    [7] => 
+                    [8] => 
+                    [9] => 
+                    [10] => 
+                    [11] => 
+                    [12] => 
+                )
+
+            [sort] => Array
+                (
+                    [0] => Array
+                        (
+                            [col] => country
+                            [direct] => asc
+                        )
+
+                    [1] => Array
+                        (
+                            [col] => family
+                            [direct] => asc
+                        )
+
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [0] => Array
+                        (
+                            [col] => country
+                            [direct] => asc
+                        )
+
+                    [1] => Array
+                        (
+                            [col] => family
+                            [direct] => asc
+                        )
+
+                )
+
+        )
+
+    [id] => 1569183438932
+)
+Array
+(
+    [method] => sort
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [checkedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [rowClasses] => Array
+                (
+                    [0] => 
+                    [1] => 
+                    [2] => 
+                    [3] => 
+                    [4] => 
+                    [5] => 
+                    [6] => 
+                    [7] => 
+                    [8] => 
+                    [9] => 
+                    [10] => 
+                    [11] => 
+                    [12] => 
+                )
+
+            [sort] => Array
+                (
+                    [0] => Array
+                        (
+                            [col] => country
+                            [direct] => asc
+                        )
+
+                    [1] => Array
+                        (
+                            [col] => family
+                            [direct] => desc
+                        )
+
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [0] => Array
+                        (
+                            [col] => country
+                            [direct] => asc
+                        )
+
+                    [1] => Array
+                        (
+                            [col] => family
+                            [direct] => desc
+                        )
+
+                )
+
+        )
+
+    [id] => 1569183440396
+)
+Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [checkedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [rowClasses] => Array
+                (
+                    [0] => 
+                    [1] => 
+                    [2] => 
+                    [3] => 
+                    [4] => 
+                    [5] => 
+                    [6] => 
+                    [7] => 
+                    [8] => 
+                    [9] => 
+                    [10] => 
+                    [11] => 
+                    [12] => 
+                )
+
+            [sort] => Array
+                (
+                    [0] => Array
+                        (
+                            [col] => country
+                            [direct] => asc
+                        )
+
+                    [1] => Array
+                        (
+                            [col] => family
+                            [direct] => desc
+                        )
+
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 5
+                    [col] => name
+                    [initial] => 4
+                    [result] => John
+                    [data] => Array
+                        (
+                            [0] => 4
+                            [1] => 8888
+                            [2] => 0
+                            [3] => Usa
+                            [4] => Washington
+                            [name] => John
+                            [family] => 8888
+                            [id] => 0
+                            [country] => Usa
+                            [town] => Washington
+                        )
+
+                )
+
+        )
+
+    [id] => 1569183451581
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+            [3] => 0
+            [4] => 0
+            [5] => 0
+            [6] => 0
+            [7] => 0
+            [8] => 0
+            [9] => 0
+            [10] => 0
+            [11] => 0
+            [12] => 0
+        )
+
+    [checkedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+            [3] => 0
+            [4] => 0
+            [5] => 0
+            [6] => 0
+            [7] => 0
+            [8] => 0
+            [9] => 0
+            [10] => 0
+            [11] => 0
+            [12] => 0
+        )
+
+    [rowClasses] => Array
+        (
+            [0] => 
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+            [7] => 
+            [8] => 
+            [9] => 
+            [10] => 
+            [11] => 
+            [12] => 
+        )
+
+    [sort] => Array
+        (
+            [0] => Array
+                (
+                    [col] => country
+                    [direct] => asc
+                )
+
+            [1] => Array
+                (
+                    [col] => family
+                    [direct] => desc
+                )
+
+        )
+
+    [perpage] => 100
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 5
+            [col] => name
+            [initial] => 4
+            [result] => John
+            [data] => Array
+                (
+                    [0] => 4
+                    [1] => 8888
+                    [2] => 0
+                    [3] => Usa
+                    [4] => Washington
+                    [name] => John
+                    [family] => 8888
+                    [id] => 0
+                    [country] => Usa
+                    [town] => Washington
+                )
+
+        )
+
+)
+Array
+(
+    [method] => change
+    [params] => Array
+        (
+            [blockedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [checkedRows] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                )
+
+            [rowClasses] => Array
+                (
+                    [0] => 
+                    [1] => 
+                    [2] => 
+                    [3] => 
+                    [4] => 
+                    [5] => 
+                    [6] => 
+                    [7] => 
+                    [8] => 
+                    [9] => 
+                    [10] => 
+                    [11] => 
+                    [12] => 
+                )
+
+            [sort] => Array
+                (
+                    [0] => Array
+                        (
+                            [col] => country
+                            [direct] => asc
+                        )
+
+                    [1] => Array
+                        (
+                            [col] => family
+                            [direct] => desc
+                        )
+
+                )
+
+            [perpage] => 100
+            [page] => 1
+            [event] => Array
+                (
+                    [row] => 5
+                    [col] => family
+                    [initial] => 8888
+                    [result] => Smith
+                    [data] => Array
+                        (
+                            [0] => 4
+                            [1] => 8888
+                            [2] => 0
+                            [3] => Usa
+                            [4] => Washington
+                            [name] => John
+                            [family] => Smith
+                            [id] => 0
+                            [country] => Usa
+                            [town] => Washington
+                        )
+
+                )
+
+        )
+
+    [id] => 1569183459370
+)
+Array
+(
+    [blockedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+            [3] => 0
+            [4] => 0
+            [5] => 0
+            [6] => 0
+            [7] => 0
+            [8] => 0
+            [9] => 0
+            [10] => 0
+            [11] => 0
+            [12] => 0
+        )
+
+    [checkedRows] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+            [3] => 0
+            [4] => 0
+            [5] => 0
+            [6] => 0
+            [7] => 0
+            [8] => 0
+            [9] => 0
+            [10] => 0
+            [11] => 0
+            [12] => 0
+        )
+
+    [rowClasses] => Array
+        (
+            [0] => 
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+            [7] => 
+            [8] => 
+            [9] => 
+            [10] => 
+            [11] => 
+            [12] => 
+        )
+
+    [sort] => Array
+        (
+            [0] => Array
+                (
+                    [col] => country
+                    [direct] => asc
+                )
+
+            [1] => Array
+                (
+                    [col] => family
+                    [direct] => desc
+                )
+
+        )
+
+    [perpage] => 100
+    [page] => 1
+    [event] => Array
+        (
+            [row] => 5
+            [col] => family
+            [initial] => 8888
+            [result] => Smith
+            [data] => Array
+                (
+                    [0] => 4
+                    [1] => 8888
+                    [2] => 0
+                    [3] => Usa
+                    [4] => Washington
+                    [name] => John
+                    [family] => Smith
+                    [id] => 0
+                    [country] => Usa
+                    [town] => Washington
+                )
+
+        )
+
+)
+Array
+(
+    [method] => load
+    [params] => Array
+        (
+            [perpage] => 100
+            [page] => 1
+        )
+
+    [id] => 1569183463265
+)
+SELECT name,family,id,country,town FROM test LIMIT 0, 100

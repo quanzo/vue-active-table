@@ -1,0 +1,13 @@
+{
+  "presets": [
+    ["@babel/preset-env", {		
+		"browsers": ["default"],
+		"modules": "umd"
+		
+		
+	}]
+  ],
+  "plugins": [
+    "@babel/plugin-transform-runtime"
+  ]
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "id": 0,
+        "name": "John",
+        "family": "Smith",
+        "country": "Usa",
+        "town": "Washington"
+    },
+    {
+        "id": 1,
+        "name": "Pier",
+        "family": "Marten",
+        "country": "France",
+        "town": "Marcel"
+    },
+    {
+        "id": 2,
+        "name": "Иван",
+        "family": "Иванов",
+        "country": "Россия",
+        "town": "Воронеж"
+    },
+    {
+        "id": 3,
+        "name": "Аристарх",
+        "family": "Кульман",
+        "country": "Россия",
+        "town": "Гдов"
+    },
+    {
+        "id": 4,
+        "name": "Станслав",
+        "family": "Курцевич",
+        "country": "Россия",
+        "town": "Шахты"
+    },
+    {
+        "id": 5,
+        "name": "David",
+        "family": "Johnson",
+        "country": "Usa",
+        "town": "Springfield"
+    },
+    {
+        "id": 6,
+        "name": "Dale",
+        "family": "Piterson",
+        "country": "Usa",
+        "town": "Denver"
+    },
+    {
+        "id": 7,
+        "name": "Петр",
+        "family": "Иванко",
+        "country": "Россия",
+        "town": "Пермь"
+    },
+    {
+        "id": 8,
+        "name": "Madeleine",
+        "family": "Samson",
+        "country": "France",
+        "town": "Marcel"
+    },
+    {
+        "id": 9,
+        "name": "Renee",
+        "family": "Ringuette",
+        "country": "France",
+        "town": "Paris"
+    },
+    {
+        "id": 10,
+        "name": "Ирина",
+        "family": "Симоненко",
+        "country": "Россия",
+        "town": "Воронеж"
+    },
+    {
+        "id": 11,
+        "name": "Мария",
+        "family": "Иванова",
+        "country": "Россия",
+        "town": "Шахты"
+    }
+]
